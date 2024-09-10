@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homefour/static/css/main.e8816056.css",
+    "main.js": "/homefour/static/js/main.bd2083e5.js",
+    "static/js/453.ed3810f9.chunk.js": "/homefour/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/homefour/index.html",
+    "main.e8816056.css.map": "/homefour/static/css/main.e8816056.css.map",
+    "main.bd2083e5.js.map": "/homefour/static/js/main.bd2083e5.js.map",
+    "453.ed3810f9.chunk.js.map": "/homefour/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8816056.css",
+    "static/js/main.bd2083e5.js"
+  ]
+}
